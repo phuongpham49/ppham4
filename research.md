@@ -3,6 +3,9 @@ layout: default
 title: "Research"
 ---
 
+[Home](./) · [Research](research.md) · [Teaching](teaching.md) · [CV](Pham_CV.pdf)
+---
+
 # Research
 
 ---
@@ -15,19 +18,19 @@ title: "Research"
 ---
 
 ## Selected Working Papers
-- **Pham, Phuong**, and **Melle Scholten**. *Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument.* (*Revise & Resubmit, Review of International Political Economy*)  
-- **Pham, Phuong**, and **Haoming Xiong**. *Network Spillover: Global Value Chains, Economic Security, and the Emergence of Defense Cooperation Agreements.*  
-- **Cook, Edgar**, **Aldrich, John**, **Stoker, Laura**, **Atkeson, Lonna**, and **Pham, Phuong**. *MAGA: The Tea Party Meets Donald Trump.*  
-- **Aldrich, John**, **Granato, Jim**, **Krishnamurthy, Arvind**, **Wong, M.C. Sunny**, and **Pham, Phuong**. *Primary, Caucuses, and Momentum: Theory and Evidence from 48 Years of Presidential Nomination Campaigns.*
+- **Pham, Phuong.** *Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument.* (*Revise & Resubmit, Review of International Political Economy*) (with Melle Scholten)  
+- **Pham, Phuong.** *Network Spillover: Global Value Chains, Economic Security, and the Emergence of Defense Cooperation Agreements.* (with Haoming Xiong)  
+- **Pham, Phuong.** *MAGA: The Tea Party Meets Donald Trump.* (with Edgar Cook, John Aldrich, Laura Stoker, and Lonna Atkeson)  
+- **Pham, Phuong.** *Primary, Caucuses, and Momentum: Theory and Evidence from 48 Years of Presidential Nomination Campaigns.* (with John Aldrich, Jim Granato, Arvind Krishnamurthy, and M.C. Sunny Wong)
 
 ---
 
 ## Peer-Reviewed Book Chapter
-**Beardsley, Kyle**, **Wilkenfeld, Jonathan**, **DeFrancisci, Corinne**, **Partridge, Diana**, **Rutter, Megan**, and **Pham, Phuong.**  
-“Deterrence in the Early Stages of Crisis.” In *A Century of International Crises, 1918–2019*, edited by Kyle Beardsley, Patrick James, and Jonathan Wilkenfeld. Ann Arbor: University of Michigan Press, *Forthcoming.*
+**Pham, Phuong.** “Deterrence in the Early Stages of Crisis.” (with Kyle Beardsley, Jonathan Wilkenfeld, Corinne DeFrancisci, Diana Partridge, and Megan Rutter)  
+In *A Century of International Crises, 1918–2019*, edited by Kyle Beardsley, Patrick James, and Jonathan Wilkenfeld. Ann Arbor: University of Michigan Press, *Forthcoming.*
 
 ---
 
 ## Selected Research In Progress
-- *Re-examining Peaceful Interdependence: How Interconnected Production Networks Incentivize Economic Conflict?*  
-- *Can Effective Legislators be Effective Enforcers? Linking Legislative Effectiveness with Environmental Enforcement* (with **Lawrence Rothenberg**)
+- **Pham, Phuong.** *Re-examining Peaceful Interdependence: How Interconnected Production Networks Incentivize Economic Conflict?*  
+- **Pham, Phuong.** *Can Effective Legislators be Effective Enforcers? Linking Legislative Effectiveness with Environmental Enforcement.* (with Lawrence Rothenberg)
