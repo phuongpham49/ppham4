@@ -4,7 +4,7 @@ title: "Phuong Pham"
 ---
 
 # Phuong Pham
-*PhD Candidate, Political Science, University of Rochester*  
+*PhD Student, Political Science, University of Rochester*  
 📍 Rochester, NY · [Email](mailto:ppham4@ur.rochester.edu)
 
 ---
