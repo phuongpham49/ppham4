@@ -22,7 +22,7 @@ Staying or Leaving? How Businesses Take Action Towards Economic Sanctions: Evide
  
  Network Spillover: Global Value Chains, Economic Security, and the Emergence of Defense Cooperation Agreements. (with Haoming Xiong)  
  
- MAGA: The Tea Party Meets Donald Trump.* (with Edgar Cook, John Aldrich, Laura Stoker, and Lonna Atkeson)  
+ MAGA: The Tea Party Meets Donald Trump. (with Edgar Cook, John Aldrich, Laura Stoker, and Lonna Atkeson)  
  
  Primary, Caucuses, and Momentum: Theory and Evidence from 48 Years of Presidential Nomination Campaigns. (with John Aldrich, Jim Granato, Arvind Krishnamurthy, and M.C. Sunny Wong)
 
