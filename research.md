@@ -41,3 +41,5 @@ In *A Century of International Crises, 1918–2019*, edited by Kyle Beardsley, P
  Re-examining Peaceful Interdependence: How Interconnected Production Networks Incentivize Economic Conflict?  
  
  Can Effective Legislators be Effective Enforcers? Linking Legislative Effectiveness with Environmental Enforcement. (with Lawrence Rothenberg)
+
+ Tariffs, Geoeconomics and Political Cleavages: Evidence from American High-Tech Companies (with Randall Stone)
