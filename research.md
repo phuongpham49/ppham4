@@ -11,7 +11,7 @@ title: "Research"
 ---
 
 ## Peer-Reviewed Publications
-Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. (*Conditionally Accepted, Review of International Political Economy*) (with Melle Scholten)
+Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. (*Forthcoming, Review of International Political Economy*) (with Melle Scholten)
  
 Staying or Leaving? How Businesses Take Action Towards Economic Sanctions: Evidence from the Russia–Ukraine War. 
 *Foreign Policy Analysis*, 2025, 21(3), oraf020.  
