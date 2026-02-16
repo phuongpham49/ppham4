@@ -11,8 +11,8 @@ title: "Research"
 ---
 
 ## Peer-Reviewed Publications
-Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. (*Forthcoming, Review of International Political Economy*) (with Melle Scholten)
- 
+Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. *Review of International Political Economy*, 2026 (with Melle Scholten)
+ [🔗 Read Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2026.2629478)
 Staying or Leaving? How Businesses Take Action Towards Economic Sanctions: Evidence from the Russia–Ukraine War. 
 *Foreign Policy Analysis*, 2025, 21(3), oraf020.  
 [🔗 Read Article](https://academic.oup.com/fpa/article-abstract/21/3/oraf020/8136454?redirectedFrom=fulltext)
@@ -20,8 +20,6 @@ Staying or Leaving? How Businesses Take Action Towards Economic Sanctions: Evide
 ---
 
 ## Selected Working Papers
- Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. (*Revise & Resubmit, Review of International Political Economy*) (with Melle Scholten)
- 
  Network Spillover: Global Value Chains, Economic Security, and the Emergence of Defense Cooperation Agreements. (with Haoming Xiong)  
  
  MAGA: The Tea Party Meets Donald Trump. (with Edgar Cook, John Aldrich, Laura Stoker, and Lonna Atkeson)  
