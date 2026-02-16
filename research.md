@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-[Home](./) · [Research](research.md) · [Teaching](teaching.md) · [CV](Pham_CV.pdf)
+[Home](./) · [Research](research.md) · [Teaching](teaching.md) · [CV](placeholder_cv.pdf)
 ---
 
 # Research
@@ -12,7 +12,7 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 Complex Global Value Chains and Economic Interdependence: A New Look at the Opportunity Costs Argument. *Review of International Political Economy*, 2026 (with Melle Scholten)
- [🔗 Read Article](https://www.tandfonline.com/doi/full/10.1080/09692290.2026.2629478)
+ [🔗 Read Article](RIPE_2026.pdf)
  
 Staying or Leaving? How Businesses Take Action Towards Economic Sanctions: Evidence from the Russia–Ukraine War. 
 *Foreign Policy Analysis*, 2025, 21(3), oraf020.  
